@@ -7,7 +7,7 @@ body {
 	margin-top: 30px;
 	text-align: center;
 	letter-spacing: 5px;
-	font-size: 60px;
+	font-size: 80px;
 }
 
 #subheader{
@@ -17,6 +17,24 @@ body {
 	font-size: 25px;
 }
 
-#img{
-	margin-top: 
+#thumbnail{
+	text-align: center;
+	margin: 0 auto
+	width: auto;
+	display: black;
 }
+
+#description{
+	margin-top: 25px;
+	text-align:center;
+	letter-spacing: 5px;
+	font-size: 25px;
+}
+
+#Link{
+	margin-top: 25px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 25px;
+}
+
